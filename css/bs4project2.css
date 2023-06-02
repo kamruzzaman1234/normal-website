@@ -1,0 +1,48 @@
+body{
+	margin-top:70px;
+}
+/*===========nav-area====================*/
+.navbar{
+	background:#fff;
+	opacity:0.9;
+	box-shadow:2px 2px 5px #3293a6;
+}
+.nav-item{
+	padding-right:20px;
+	font-size:1.4rem;
+}
+.nav-item:last-child{
+	padding-right:0px;
+}	
+.nav-link:hover{
+	color:#3293a6;
+	
+}
+/*======show case area========*/
+.home-section{
+	padding-top:150px;
+	padding-bottom:50px;
+}
+.one:hover{
+	background:#3293a6;
+	color:#fff;
+}
+.fa{
+	font-size:25px;
+}
+.fa:hover{
+	color:#fff;
+}
+
+
+
+
+
+
+
+@media(max-width: 576px){
+	#showcase h1{
+		font-size:3rem;
+		
+	}
+	}
